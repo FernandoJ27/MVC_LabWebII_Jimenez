@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Layout</title>
+    <link href="~/Assets/CSS/bootstrap.css" rel="stylesheet" />
+    <!--<link href="~/Assets/CSS/bootstrap-theme.css" rel="stylesheet" />-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body  style="background-color:#ddd9d9">
+    <div>
+        <nav class="navbar" style="margin-bottom:0px; background-color:#245a79">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" style="color:#e0e0e0; font-size:20px;">MVC - FJC</a>
+                </div>
+                <div class="navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav">
+                        <li class="mvc-lihover"><a href="~/Home" style="color:#e0e0e0">Home</a></li>
+                        <li class="mvc-lihover"><a href="~/Home/Usuarios" style="color:#e0e0e0">Usuarios</a></li>
+                        <li class="mvc-lihover"><a href="~/Home/Categorias" style="color:#e0e0e0">Categorías</a></li>
+                        <li class="mvc-lihover"><a href="#" style="color:#e0e0e0">Pedidos</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="jumbotron" style="background-color:#2e7198; color:white; margin-bottom:0px">
+            <h1 class="text-center">@ViewBag.Title</h1>
+        </div>
+        <div class="container" style="background-color:#fff; padding-top:20px; padding-bottom:20px; box-shadow: 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12), 0 2px 4px -1px rgba(0, 0, 0, .2)">
+            @RenderBody()
+        </div>
+        <script src="~/Assets/JavaScript/bootstrap.js"></script>
+        <script src="~/Assets/JavaScript/jquery-2.2.3.js"></script>
+        <script src="~/Assets/JavaScript/jquery.validate.min.js"></script>
+        <script src="~/Assets/JavaScript/jquery.validate.unobtrusive.min.js"></script>
+    </div>
+</body>
+</html>
