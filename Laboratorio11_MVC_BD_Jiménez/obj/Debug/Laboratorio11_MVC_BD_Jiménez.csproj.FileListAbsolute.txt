@@ -1,0 +1,364 @@
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\ApplicationInsights.config
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\csc.exe
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\System.Collections.Immutable.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\vbc.exe
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\VBCSCompiler.exe
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\VBCSCompiler.exe.config
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.dll.config
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.pdb
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Web.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.WindowsServer.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.ApplicationInsights.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.Web.Infrastructure.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Helpers.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Mvc.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Razor.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Deployment.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Razor.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Web.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.WindowsServer.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.ApplicationInsights.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Razor.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Deployment.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Razor.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Helpers.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Mvc.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.csprojResolveAssemblyReference.cache
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.pdb
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.SqlServer.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.SqlServer.xml
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Razor.resources.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.resources.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.Deployment.resources.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.Razor.resources.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Helpers.resources.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Mvc.resources.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Modelo.dll
+c:\users\depis\documents\visual studio 2015\Projects\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Modelo.pdb
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\ApplicationInsights.config
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\csc.exe
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\vbc.exe
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\VBCSCompiler.exe
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.dll.config
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.pdb
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.SqlServer.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Web.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.ApplicationInsights.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Modelo.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Helpers.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Mvc.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Razor.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Deployment.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Razor.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Modelo.pdb
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.SqlServer.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Web.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.ApplicationInsights.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Razor.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Deployment.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Razor.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Helpers.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Mvc.xml
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Razor.resources.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.resources.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Helpers.resources.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Mvc.resources.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.csprojResolveAssemblyReference.cache
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.dll
+C:\Users\BEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.pdb
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\ApplicationInsights.config
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\csc.exe
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\vbc.exe
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\VBCSCompiler.exe
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.dll.config
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.pdb
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.SqlServer.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Web.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Modelo.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Helpers.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Mvc.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Razor.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Razor.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Modelo.pdb
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.SqlServer.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Web.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Razor.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Razor.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Helpers.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Mvc.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Razor.resources.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.resources.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Helpers.resources.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Mvc.resources.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.csprojResolveAssemblyReference.cache
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.pdb
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\ApplicationInsights.config
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\csc.exe
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\System.Collections.Immutable.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\System.Reflection.Metadata.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\vbc.exe
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\VBCSCompiler.exe
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\VBCSCompiler.exe.config
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.dll.config
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.pdb
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.SqlServer.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.DependencyCollector.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Web.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.WindowsServer.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.ApplicationInsights.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.Web.Infrastructure.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Modelo.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Helpers.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Mvc.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Razor.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Deployment.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Razor.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Modelo.pdb
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.SqlServer.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.DependencyCollector.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Web.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.WindowsServer.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.ApplicationInsights.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Razor.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Deployment.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Razor.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Helpers.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Mvc.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Razor.resources.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.resources.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Helpers.resources.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Mvc.resources.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.csprojResolveAssemblyReference.cache
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.pdb
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\ApplicationInsights.config
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\csc.exe
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\System.Collections.Immutable.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\System.Reflection.Metadata.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\vbc.exe
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\VBCSCompiler.exe
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\VBCSCompiler.exe.config
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.dll.config
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.pdb
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.SqlServer.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.DependencyCollector.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Web.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.WindowsServer.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.ApplicationInsights.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.Web.Infrastructure.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Modelo.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Helpers.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Mvc.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Razor.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Deployment.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Razor.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Modelo.pdb
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.SqlServer.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.DependencyCollector.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Web.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.WindowsServer.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.ApplicationInsights.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Razor.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Deployment.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Razor.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Helpers.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Mvc.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Razor.resources.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.resources.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.Deployment.resources.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.Razor.resources.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Helpers.resources.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Mvc.resources.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.csprojResolveAssemblyReference.cache
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.pdb
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Newtonsoft.Json.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Net.Http.Formatting.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Http.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Http.WebHost.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Newtonsoft.Json.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Net.Http.Formatting.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Http.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Http.WebHost.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\ApplicationInsights.config
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\csc.exe
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\System.Collections.Immutable.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\System.Reflection.Metadata.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\vbc.exe
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\VBCSCompiler.exe
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\roslyn\VBCSCompiler.exe.config
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.dll.config
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Laboratorio11_MVC_BD_Jiménez.pdb
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.SqlServer.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.DependencyCollector.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Web.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.WindowsServer.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.ApplicationInsights.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.Web.Infrastructure.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Modelo.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Newtonsoft.Json.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Net.Http.Formatting.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Helpers.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Http.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Http.WebHost.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Mvc.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Razor.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Deployment.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Razor.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Modelo.pdb
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\EntityFramework.SqlServer.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.DependencyCollector.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.Web.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.AI.WindowsServer.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.ApplicationInsights.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\Newtonsoft.Json.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Net.Http.Formatting.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Http.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Http.WebHost.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Razor.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Deployment.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Webpages.Razor.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Helpers.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\System.Web.Mvc.xml
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Razor.resources.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.resources.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.Deployment.resources.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Webpages.Razor.resources.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Helpers.resources.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\bin\es\System.Web.Mvc.resources.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.csprojResolveAssemblyReference.cache
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.dll
+F:\Laboratorio11_MVC_BD_Jiménez\Laboratorio11_MVC_BD_Jiménez\obj\Debug\Laboratorio11_MVC_BD_Jiménez.pdb

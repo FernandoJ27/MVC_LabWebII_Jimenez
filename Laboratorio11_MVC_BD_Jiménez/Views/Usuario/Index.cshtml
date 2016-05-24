@@ -1,0 +1,52 @@
+﻿@model List<Modelo.USUARIO>
+@{
+    ViewBag.Title = "Usuario";
+ }
+
+@using (Html.BeginForm("Index", "Usuario", FormMethod.Post, new { criterio = "frm-buscar" }))
+{
+    <div class="row">
+        <div class="col-sm-8 text-left">
+            @Html.Label("Buscar: ")
+            @Html.TextBox("criterio")
+            <button type="submit"><i class="material-icons" style="font-size:20px; color:#2a5a7d">search</i></button>
+        </div>
+
+        <div class="col-sm-4">
+            <a href="~/Usuario/Gestionar/" class="btn btn-default pull-right"><i class="material-icons" style="color:#56904b">add</i>Nueva</a><br />
+        </div>
+    </div>
+}
+<hr />
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Tipo</th>
+            <th>E-mail</th>
+            <th>Estado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <td>@m.IDUSUARIO</td>
+                <td>@m.NOMBRE @m.APELLIDOS</td>
+                <td>@m.EMAIL</td>
+                <td>@(m.ESTADO == "A" ? "Activo" : "Inactivo")</td>
+                <td>
+                    <div class="pull-right">
+                        <a href="~/Usuario/Perfil/@m.IDTIPOUSUARIO"><i class="material-icons" style="color:#2a5a7d; font-size:40px">visibility</i></a>
+                        <a href="~/Usuario/Gestionar/@m.IDUSUARIO"><i class="material-icons" style="color:#8e9834; font-size:40px">edit</i></a>
+                        <a onclick="return confirm('¿Está seguro de eliminar el registro?');" href="~/Usuario/Eliminar/@m.IDUSUARIO">
+                            <i class="material-icons" style="color:#932a2a; font-size:40px">delete_forever</i>
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -6,6 +6,7 @@ namespace Modelo
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
     using System.Linq;
+    using System.Data.Entity;
 
     [Table("USUARIO")]
     public partial class USUARIO
@@ -69,7 +70,7 @@ namespace Modelo
         /// <summary>
         /// Buscar registro
         /// </summary>
-        /// <returns>Retorna una categoría</returns>
+        /// <returns>Retorna un usuario</returns>
         public USUARIO Obtener(int id)
         {
             var usuario = new USUARIO();
@@ -79,14 +80,77 @@ namespace Modelo
                 using (var dbventas = new BasedeDatos())
                 {
                     usuario = dbventas.USUARIO
-                        .Include("TIPO_USUARIO")
-                        .Where(x => x.IDTIPOUSUARIO == id)
-                        .SingleOrDefault();
+                            .Include("TIPO_USUARIO")
+                            .Where(x => x.IDTIPOUSUARIO == id)
+                            .SingleOrDefault();
                 }
             }
             catch (Exception e)
             {
                 throw;
+            }
+
+            return usuario;
+        }
+
+        public void Guardar()
+        {
+            try
+            {
+                using (var dbventas = new BasedeDatos())
+                {
+                    if (this.IDUSUARIO == "")
+                    {
+                        dbventas.Entry(this).State = EntityState.Added;
+                    }
+                    else
+                    {
+                        dbventas.Entry(this).State = EntityState.Modified;
+                    }
+                    dbventas.SaveChanges();
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public void Eliminar()
+        {
+            try
+            {
+                using (var dbventas = new BasedeDatos())
+                {
+                    dbventas.Entry(this).State = EntityState.Deleted;
+                    dbventas.SaveChanges();
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public List<USUARIO> Buscar(string criterio)
+        {
+            var usuario = new List<USUARIO>();
+            string estado = "";
+
+            estado = (criterio == "Activo") ? "A" : (criterio == "Inactivo") ? "I" : "";
+
+            try
+            {
+                using (var dbventas = new BasedeDatos())
+                {
+                    usuario = dbventas.USUARIO
+                                .Where(x => x.IDUSUARIO.Contains(criterio) | x.ESTADO == estado)
+                                .ToList();
+                }
+            }
+            catch (Exception e)
+            {
+                throw e;
             }
 
             return usuario;

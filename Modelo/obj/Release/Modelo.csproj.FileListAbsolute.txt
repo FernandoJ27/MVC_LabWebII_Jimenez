@@ -1,0 +1,29 @@
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\Modelo.dll.config
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\Modelo.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\Modelo.pdb
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\EntityFramework.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\EntityFramework.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Modelo\obj\Release\Modelo.dll
+C:\Users\DEPIS\Desktop\Laboratorio11_MVC_BD_Jiménez\Modelo\obj\Release\Modelo.pdb
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\Modelo.dll.config
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\Modelo.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\Modelo.pdb
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\EntityFramework.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\EntityFramework.SqlServer.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\EntityFramework.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\EntityFramework.SqlServer.xml
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Modelo\obj\Release\Modelo.csprojResolveAssemblyReference.cache
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Modelo\obj\Release\Modelo.dll
+D:\Universidad\Ciclo VIII\Desarrollo de Aplicaciones Web II\Unidad II\Laboratorio11_MVC_BD_Jiménez\Modelo\obj\Release\Modelo.pdb
+G:\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\Modelo.dll.config
+G:\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\Modelo.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\Modelo.pdb
+G:\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\EntityFramework.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\EntityFramework.SqlServer.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\EntityFramework.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Modelo\bin\Release\EntityFramework.SqlServer.xml
+G:\Laboratorio11_MVC_BD_Jiménez\Modelo\obj\Release\Modelo.csprojResolveAssemblyReference.cache
+G:\Laboratorio11_MVC_BD_Jiménez\Modelo\obj\Release\Modelo.dll
+G:\Laboratorio11_MVC_BD_Jiménez\Modelo\obj\Release\Modelo.pdb

@@ -154,9 +154,8 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\PedidoController.cs" />
     <Compile Include="Controllers\CategoriaController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\UsuarioController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -200,6 +199,12 @@
     <Content Include="Views\Home\GestionarUsuario.cshtml" />
     <Content Include="Views\Home\UsuarioPerfil.cshtml" />
     <Content Include="Views\Home\CategoriaBuscar.cshtml" />
+    <Content Include="Views\Categoria\Index.cshtml" />
+    <Content Include="Views\Categoria\Productos.cshtml" />
+    <Content Include="Views\Categoria\Buscar.cshtml" />
+    <Content Include="Views\Categoria\Gestionar.cshtml" />
+    <Content Include="Views\Usuario\Index.cshtml" />
+    <Content Include="Views\Usuario\Gestionar.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -211,9 +216,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
     <Folder Include="scripts\" />
-    <Folder Include="Views\Categoria\" />
-    <Folder Include="Views\Pedido\" />
-    <Folder Include="Views\Usuario\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Modelo\Modelo.csproj">

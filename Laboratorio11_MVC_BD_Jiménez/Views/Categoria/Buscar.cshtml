@@ -1,0 +1,36 @@
+﻿@model List<Modelo.CATEGORIA>
+@{
+    ViewBag.Title = "Categoría - Buscar";
+}
+
+@using (Html.BeginForm("Buscar", "Categoria", FormMethod.Post, new { criterio = "frm-buscar" }))
+{
+    <div class="text-left">
+        @Html.Label("Buscar: ")
+        @Html.TextBox("criterio")
+        <button type="submit"><i class="material-icons" style="font-size:30px">search</i></button>
+    </div>
+}
+<hr />
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Estado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <td>@m.IDCATEGORIA</td>
+                <td>@m.NOMBRE</td>
+                <td>@m.DESCRIPCION</td>
+                <td>@(m.ESTADO == "A" ? "Activo" : "Inactivo")</td>
+            </tr>
+        }
+    </tbody>
+</table>

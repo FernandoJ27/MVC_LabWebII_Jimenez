@@ -1,0 +1,40 @@
+﻿@model Modelo.CATEGORIA
+@{ 
+    ViewBag.Title = (Model.IDCATEGORIA > 0 ? Model.NOMBRE : "Nueva Categoría");
+}
+
+<ol class="breadcrumb">
+    <li><a href="~/Home/Categorias">Categorias</a></li>
+    <li class="active">@(Model.IDCATEGORIA > 0 ? Model.NOMBRE : "Nuevo Registro")</li>
+</ol>
+
+@using (Html.BeginForm("Guardar","Home", FormMethod.Post, new { id = "frm-categoria" }))
+{
+    @Html.HiddenFor(x => x.IDCATEGORIA);
+    <div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.IDCATEGORIA)
+            @Html.TextBoxFor(x => x.IDCATEGORIA, new { @class = "form-control", disabled = true })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.NOMBRE)
+            @Html.TextBoxFor(x => x.NOMBRE, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.DESCRIPCION)
+            @Html.TextAreaFor(x => x.DESCRIPCION, new { @class = "form-control" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(x => x.ESTADO)
+            <select name="estado" class="form-control">
+                <option @(Model.ESTADO == "A" ? "select" : "") value="A">Activo</option>
+                <option @(Model.ESTADO == "I" ? "select" : "") value="I">Inactivo</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="text-right">
+        <input type="submit" class="btn btn-primary" value="Guardar"/>
+        <a href="~/Home/Categorias" class="btn btn-danger">Cancelar</a>
+    </div>
+}

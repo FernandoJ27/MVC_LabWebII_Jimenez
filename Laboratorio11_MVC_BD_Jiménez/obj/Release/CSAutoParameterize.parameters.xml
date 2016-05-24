@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BasedeDatos-Web.config Connection String" description="BasedeDatos Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="data source=DEPIS11\EPIS;initial catalog=db_ventas;persist security info=True;     user id=sa;password=epis;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="G:\\Laboratorio11_MVC_BD_Jiménez\\Laboratorio11_MVC_BD_Jiménez\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BasedeDatos']/@connectionString" />
+  </parameter>
+</parameters>
