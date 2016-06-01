@@ -155,5 +155,37 @@ namespace Modelo
 
             return usuario;
         }
+
+        public ResponseModel Acceder(string Email, string Password)
+        {
+            var rm = new ResponseModel();
+
+            try
+            {
+                using (var dbventas = new BasedeDatos())
+                {
+                    Password = HashHelper.MD5(Password);
+                    var usuario = dbventas.USUARIO
+                                .Where(x => x.EMAIL == Email)
+                                .Where(x => x.PASSWORD == Password)
+                                .SingleOrDefault();
+
+                    if (usuario != null)
+                    {
+                        SessionHelper.AddUserToSession(usuario.IDUSUARIO.ToString());
+                        rm.SetResponse(true);
+                    }
+                    else
+                    {
+                        rm.SetResponse(false, "Email o Password incorrecto");
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+            return rm;
+        }
     }
 }

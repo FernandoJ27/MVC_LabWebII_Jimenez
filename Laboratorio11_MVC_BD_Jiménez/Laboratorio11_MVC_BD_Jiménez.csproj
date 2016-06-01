@@ -145,7 +145,10 @@
     <Content Include="Assets\CSS\bootstrap-theme.css" />
     <Content Include="Assets\CSS\bootstrap.css" />
     <Content Include="Assets\JavaScript\bootstrap.js" />
+    <Content Include="Assets\JavaScript\ini.js" />
     <Content Include="Assets\JavaScript\jquery-2.2.3.js" />
+    <Content Include="Assets\JavaScript\jquery.form.js" />
+    <Content Include="Assets\JavaScript\jquery.js" />
     <Content Include="Global.asax" />
     <Content Include="Assets\JavaScript\jquery.validate.min.js" />
     <Content Include="Assets\JavaScript\jquery.validate.unobtrusive.min.js" />
@@ -156,7 +159,9 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\CategoriaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\UsuarioController.cs" />
+    <Compile Include="Filters\AdminFilters.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -175,26 +180,26 @@
     <Content Include="Views\Home\Categorias.cshtml" />
     <Content Include="Views\Home\Usuarios.cshtml" />
     <Content Include="Views\Home\GestionarCategoria.cshtml" />
-    <Content Include="Assets\Fonts\Roboto-Bold.eot" />
-    <Content Include="Assets\Fonts\Roboto-Bold.ttf" />
-    <Content Include="Assets\Fonts\Roboto-Bold.woff" />
-    <Content Include="Assets\Fonts\Roboto-Bold.woff2" />
-    <Content Include="Assets\Fonts\Roboto-Light.eot" />
-    <Content Include="Assets\Fonts\Roboto-Light.ttf" />
-    <Content Include="Assets\Fonts\Roboto-Light.woff" />
-    <Content Include="Assets\Fonts\Roboto-Light.woff2" />
-    <Content Include="Assets\Fonts\Roboto-Medium.eot" />
-    <Content Include="Assets\Fonts\Roboto-Medium.ttf" />
-    <Content Include="Assets\Fonts\Roboto-Medium.woff" />
-    <Content Include="Assets\Fonts\Roboto-Medium.woff2" />
-    <Content Include="Assets\Fonts\Roboto-Regular.eot" />
-    <Content Include="Assets\Fonts\Roboto-Regular.ttf" />
-    <Content Include="Assets\Fonts\Roboto-Regular.woff" />
-    <Content Include="Assets\Fonts\Roboto-Regular.woff2" />
-    <Content Include="Assets\Fonts\Roboto-Thin.eot" />
-    <Content Include="Assets\Fonts\Roboto-Thin.ttf" />
-    <Content Include="Assets\Fonts\Roboto-Thin.woff" />
-    <Content Include="Assets\Fonts\Roboto-Thin.woff2" />
+    <Content Include="Assets\fonts\Roboto-Bold.eot" />
+    <Content Include="Assets\fonts\Roboto-Bold.ttf" />
+    <Content Include="Assets\fonts\Roboto-Bold.woff" />
+    <Content Include="Assets\fonts\Roboto-Bold.woff2" />
+    <Content Include="Assets\fonts\Roboto-Light.eot" />
+    <Content Include="Assets\fonts\Roboto-Light.ttf" />
+    <Content Include="Assets\fonts\Roboto-Light.woff" />
+    <Content Include="Assets\fonts\Roboto-Light.woff2" />
+    <Content Include="Assets\fonts\Roboto-Medium.eot" />
+    <Content Include="Assets\fonts\Roboto-Medium.ttf" />
+    <Content Include="Assets\fonts\Roboto-Medium.woff" />
+    <Content Include="Assets\fonts\Roboto-Medium.woff2" />
+    <Content Include="Assets\fonts\Roboto-Regular.eot" />
+    <Content Include="Assets\fonts\Roboto-Regular.ttf" />
+    <Content Include="Assets\fonts\Roboto-Regular.woff" />
+    <Content Include="Assets\fonts\Roboto-Regular.woff2" />
+    <Content Include="Assets\fonts\Roboto-Thin.eot" />
+    <Content Include="Assets\fonts\Roboto-Thin.ttf" />
+    <Content Include="Assets\fonts\Roboto-Thin.woff" />
+    <Content Include="Assets\fonts\Roboto-Thin.woff2" />
     <None Include="Properties\PublishProfiles\mvcjimenez.pubxml" />
     <Content Include="Views\Home\GestionarUsuario.cshtml" />
     <Content Include="Views\Home\UsuarioPerfil.cshtml" />
@@ -205,6 +210,7 @@
     <Content Include="Views\Categoria\Gestionar.cshtml" />
     <Content Include="Views\Usuario\Index.cshtml" />
     <Content Include="Views\Usuario\Gestionar.cshtml" />
+    <Content Include="Views\Login\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

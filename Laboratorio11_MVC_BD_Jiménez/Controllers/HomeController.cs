@@ -4,9 +4,11 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Modelo;
+using Laboratorio11_MVC_BD_Jiménez.Filters;
 
 namespace Laboratorio11_MVC_BD_Jiménez.Controllers
 {
+    [Autenticado]
     public class HomeController : Controller
     {
 
