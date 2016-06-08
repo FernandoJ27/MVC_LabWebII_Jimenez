@@ -4,11 +4,11 @@
 }
 
 <ol class="breadcrumb">
-    <li><a href="~/Home/Categorias">Categorias</a></li>
+    <li><a href="~/Categoria/">Categorias</a></li>
     <li class="active">@(Model.IDCATEGORIA > 0 ? Model.NOMBRE : "Nuevo Registro")</li>
 </ol>
 
-@using (Html.BeginForm("GuardarCategoria","Home", FormMethod.Post, new { id = "frm-categoria" }))
+@using (Html.BeginForm("Guardar","Categoria", FormMethod.Post, new { id = "frm-categoria" }))
 {
     @Html.HiddenFor(x => x.IDCATEGORIA);
     <div>
@@ -37,6 +37,6 @@
 
     <div class="text-right">
         <input type="submit" class="btn btn-primary" value="Guardar"/>
-        <a href="~/Home/Categorias" class="btn btn-danger">Cancelar</a>
+        <a href="~/Categoria/" class="btn btn-danger">Cancelar</a>
     </div>
 }

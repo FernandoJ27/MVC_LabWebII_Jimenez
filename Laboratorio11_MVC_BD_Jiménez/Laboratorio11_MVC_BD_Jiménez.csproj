@@ -160,6 +160,9 @@
     <Compile Include="Controllers\CategoriaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\PedidoController.cs" />
+    <Compile Include="Controllers\ProductoController.cs" />
+    <Compile Include="Controllers\TipoUsuarioController.cs" />
     <Compile Include="Controllers\UsuarioController.cs" />
     <Compile Include="Filters\AdminFilters.cs" />
     <Compile Include="Global.asax.cs">
@@ -176,10 +179,7 @@
     <Content Include="Views\Shared\Layout.cshtml" />
     <Content Include="Views\_Viewstart.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Home\CategoriaProductos.cshtml" />
-    <Content Include="Views\Home\Categorias.cshtml" />
     <Content Include="Views\Home\Usuarios.cshtml" />
-    <Content Include="Views\Home\GestionarCategoria.cshtml" />
     <Content Include="Assets\fonts\Roboto-Bold.eot" />
     <Content Include="Assets\fonts\Roboto-Bold.ttf" />
     <Content Include="Assets\fonts\Roboto-Bold.woff" />
@@ -203,14 +203,26 @@
     <None Include="Properties\PublishProfiles\mvcjimenez.pubxml" />
     <Content Include="Views\Home\GestionarUsuario.cshtml" />
     <Content Include="Views\Home\UsuarioPerfil.cshtml" />
-    <Content Include="Views\Home\CategoriaBuscar.cshtml" />
     <Content Include="Views\Categoria\Index.cshtml" />
     <Content Include="Views\Categoria\Productos.cshtml" />
-    <Content Include="Views\Categoria\Buscar.cshtml" />
+    <Content Include="Views\Home\Buscar.cshtml" />
     <Content Include="Views\Categoria\Gestionar.cshtml" />
     <Content Include="Views\Usuario\Index.cshtml" />
     <Content Include="Views\Usuario\Gestionar.cshtml" />
     <Content Include="Views\Login\Index.cshtml" />
+    <Content Include="Views\Pedido\Buscar.cshtml" />
+    <Content Include="Views\Pedido\Gestionar.cshtml" />
+    <Content Include="Views\Pedido\Index.cshtml" />
+    <Content Include="Views\Pedido\DetallePedido.cshtml" />
+    <Content Include="Views\Producto\Buscar.cshtml" />
+    <Content Include="Views\Producto\Gestionar.cshtml" />
+    <Content Include="Views\Producto\Index.cshtml" />
+    <Content Include="Views\Producto\Productos.cshtml" />
+    <Content Include="Views\TipoUsuario\Buscar.cshtml" />
+    <Content Include="Views\TipoUsuario\Gestionar.cshtml" />
+    <Content Include="Views\TipoUsuario\Index.cshtml" />
+    <Content Include="Views\Usuario\Buscar.cshtml" />
+    <Content Include="Views\Usuario\Perfil.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -3,7 +3,7 @@
     ViewBag.Title = "Categorías";
  }
 
-@using (Html.BeginForm("Categorias", "Home", FormMethod.Post, new { criterio = "frm-buscar" }))
+@using (Html.BeginForm("Index", "Categoria", FormMethod.Post, new { criterio = "frm-buscar" }))
 {
     <div class="row">
         <div class="col-sm-8 text-left">
@@ -13,7 +13,7 @@
         </div>
 
         <div class="col-sm-4">
-            <a href="~/Home/GestionarCategoria/" class="btn btn-default pull-right"><i class="material-icons" style="color:#56904b">add</i>Nueva</a><br />
+            <a href="~/Categoria/Gestionar/" class="btn btn-default pull-right"><i class="material-icons" style="color:#56904b">add</i>Nueva</a><br />
         </div>
     </div>
 }
@@ -39,9 +39,9 @@
                 <td>@(m.ESTADO == "A" ? "Activo" : "Inactivo")</td>
                 <td>
                     <div class="pull-right">
-                        <a href="~/Home/CategoriaProductos/@m.IDCATEGORIA"><i class="material-icons" style="color:#2a5a7d; font-size:40px">visibility</i></a>
-                        <a href="~/Home/GestionarCategoria/@m.IDCATEGORIA"><i class="material-icons" style="color:#8e9834; font-size:40px">edit</i></a>
-                        <a onclick="return confirm('¿Está seguro de eliminar el registro?');" href="~/Home/EliminarCategoria/@m.IDCATEGORIA">
+                        <a href="~/Categoria/Productos/@m.IDCATEGORIA"><i class="material-icons" style="color:#2a5a7d; font-size:40px">visibility</i></a>
+                        <a href="~/Categoria/Gestionar/@m.IDCATEGORIA"><i class="material-icons" style="color:#8e9834; font-size:40px">edit</i></a>
+                        <a onclick="return confirm('¿Está seguro de eliminar el registro?');" href="~/Categoria/Eliminar/@m.IDCATEGORIA">
                             <i class="material-icons" style="color:#932a2a; font-size:40px">delete_forever</i>
                         </a>
                     </div>
