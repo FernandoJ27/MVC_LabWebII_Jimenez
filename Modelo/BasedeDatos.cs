@@ -90,8 +90,12 @@ namespace Modelo
                 .WithRequired(e => e.TIPO_USUARIO)
                 .WillCascadeOnDelete(false);
 
+            //modelBuilder.Entity<USUARIO>()
+            //    .Property(e => e.IDUSUARIO)
+            //    .IsUnicode(false);
+
             modelBuilder.Entity<USUARIO>()
-                .Property(e => e.IDUSUARIO)
+                .Property(e => e.NOMBREUSU)
                 .IsUnicode(false);
 
             modelBuilder.Entity<USUARIO>()

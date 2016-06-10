@@ -18,18 +18,21 @@ namespace Modelo
         }
 
         [Key]
-        [StringLength(20)]
-        public string IDUSUARIO { get; set; }
+        public int IDUSUARIO { get; set; }
 
+        [Required]
         public int IDTIPOUSUARIO { get; set; }
 
-        [StringLength(20)]
+        [StringLength(30)]
+        public string NOMBREUSU { get; set; }
+
+        [StringLength(50)]
         public string PASSWORD { get; set; }
 
         [StringLength(20)]
         public string NOMBRE { get; set; }
 
-        [StringLength(20)]
+        [StringLength(50)]
         public string APELLIDOS { get; set; }
 
         [StringLength(50)]
@@ -71,25 +74,44 @@ namespace Modelo
         /// Buscar registro
         /// </summary>
         /// <returns>Retorna un usuario</returns>
+        //public USUARIO Obtener(int id)
+        //{
+        //    var usuario = new USUARIO();
+
+        //    try
+        //    {
+        //        using (var dbventas = new BasedeDatos())
+        //        {
+        //            usuario = dbventas.USUARIO
+        //                    .Include("TIPO_USUARIO")
+        //                    .Where(x => x.IDTIPOUSUARIO == id)
+        //                    .SingleOrDefault();
+        //        }
+        //    }
+        //    catch (Exception e)
+        //    {
+        //        throw;
+        //    }
+
+        //    return usuario;
+        //}
+
         public USUARIO Obtener(int id)
         {
             var usuario = new USUARIO();
-
             try
             {
-                using (var dbventas = new BasedeDatos())
+                using (var db_ventas = new BasedeDatos())
                 {
-                    usuario = dbventas.USUARIO
-                            .Include("TIPO_USUARIO")
-                            .Where(x => x.IDTIPOUSUARIO == id)
-                            .SingleOrDefault();
+                    usuario = db_ventas.USUARIO
+                              .Where(x => x.IDUSUARIO == id)
+                              .SingleOrDefault();
                 }
             }
-            catch (Exception e)
+            catch (Exception ex)
             {
-                throw;
+                throw ex;
             }
-
             return usuario;
         }
 
@@ -99,7 +121,7 @@ namespace Modelo
             {
                 using (var dbventas = new BasedeDatos())
                 {
-                    if (this.IDUSUARIO == "")
+                    if (this.IDUSUARIO == 0)
                     {
                         dbventas.Entry(this).State = EntityState.Added;
                     }
@@ -144,7 +166,7 @@ namespace Modelo
                 using (var dbventas = new BasedeDatos())
                 {
                     usuario = dbventas.USUARIO
-                                .Where(x => x.IDUSUARIO.Contains(criterio) | x.ESTADO == estado)
+                                //.Where(x => x.IDUSUARIO.Contains(criterio) | x.ESTADO == estado)
                                 .ToList();
                 }
             }

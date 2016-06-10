@@ -68,3 +68,13 @@ C:\Users\BEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\bin\Debug\EntityFramewor
 C:\Users\BEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
 C:\Users\BEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\obj\Debug\Modelo.dll
 C:\Users\BEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\obj\Debug\Modelo.pdb
+C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\obj\Debug\Modelo.dll
+C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\obj\Debug\Modelo.pdb
+C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\bin\Debug\Modelo.dll.config
+C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\bin\Debug\Modelo.dll
+C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\bin\Debug\Modelo.pdb
+C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\bin\Debug\EntityFramework.dll
+C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\bin\Debug\EntityFramework.xml
+C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\bin\Debug\EntityFramework.SqlServer.xml

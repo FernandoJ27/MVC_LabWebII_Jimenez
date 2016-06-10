@@ -20,7 +20,7 @@ namespace Laboratorio11_MVC_BD_Jiménez.Controllers
             return View();
         }
 
-        public JsonResult Acceder(string Email, string Password)
+        public ActionResult Acceder(string Email, string Password)
         {
             var rm = usuario.Acceder(Email, Password);
 
@@ -28,7 +28,7 @@ namespace Laboratorio11_MVC_BD_Jiménez.Controllers
             {
                 rm.href = Url.Content("~/Home");
             }
-            return Json(rm);
+            return Redirect("~/");
         }
 
         public ActionResult Logout()

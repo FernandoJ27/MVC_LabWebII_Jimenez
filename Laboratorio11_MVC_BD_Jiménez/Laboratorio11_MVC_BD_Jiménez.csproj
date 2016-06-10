@@ -157,6 +157,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Areas\BackEnd\BackEndAreaRegistration.cs" />
     <Compile Include="Controllers\CategoriaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
@@ -200,6 +201,7 @@
     <Content Include="Assets\fonts\Roboto-Thin.ttf" />
     <Content Include="Assets\fonts\Roboto-Thin.woff" />
     <Content Include="Assets\fonts\Roboto-Thin.woff2" />
+    <Content Include="Areas\BackEnd\Views\web.config" />
     <None Include="Properties\PublishProfiles\mvcjimenez.pubxml" />
     <Content Include="Views\Home\GestionarUsuario.cshtml" />
     <Content Include="Views\Home\UsuarioPerfil.cshtml" />
@@ -232,6 +234,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\BackEnd\Controllers\" />
+    <Folder Include="Areas\BackEnd\Models\" />
+    <Folder Include="Areas\BackEnd\Views\Shared\" />
     <Folder Include="Models\" />
     <Folder Include="scripts\" />
   </ItemGroup>

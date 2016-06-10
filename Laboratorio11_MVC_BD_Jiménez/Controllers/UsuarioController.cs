@@ -54,7 +54,7 @@ namespace Laboratorio11_MVC_BD_Jiménez.Controllers
 
         }
 
-        public ActionResult Eliminar(string id)
+        public ActionResult Eliminar(int id)
         {
             usuario.IDUSUARIO = id;
             usuario.Eliminar();
