@@ -152,6 +152,7 @@
     <Content Include="Global.asax" />
     <Content Include="Assets\JavaScript\jquery.validate.min.js" />
     <Content Include="Assets\JavaScript\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Uploads\profile.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -162,6 +163,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\PedidoController.cs" />
+    <Compile Include="Controllers\PerfilController.cs" />
     <Compile Include="Controllers\ProductoController.cs" />
     <Compile Include="Controllers\TipoUsuarioController.cs" />
     <Compile Include="Controllers\UsuarioController.cs" />
@@ -225,6 +227,7 @@
     <Content Include="Views\TipoUsuario\Index.cshtml" />
     <Content Include="Views\Usuario\Buscar.cshtml" />
     <Content Include="Views\Usuario\Perfil.cshtml" />
+    <Content Include="Views\Perfil\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

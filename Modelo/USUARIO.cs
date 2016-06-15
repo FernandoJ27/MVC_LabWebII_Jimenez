@@ -7,7 +7,9 @@ namespace Modelo
     using System.Data.Entity.Spatial;
     using System.Linq;
     using System.Data.Entity;
-
+    using System.IO;
+    using System.Web;
+    using System.Data.Entity.Validation;
     [Table("USUARIO")]
     public partial class USUARIO
     {
@@ -40,6 +42,9 @@ namespace Modelo
 
         [StringLength(1)]
         public string ESTADO { get; set; }
+
+        [StringLength(250)]
+        public string FOTO { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<PEDIDO> PEDIDO { get; set; }
@@ -207,6 +212,47 @@ namespace Modelo
             {
                 throw;
             }
+            return rm;
+        }
+
+        public ResponseModel UploadFoto(HttpPostedFileBase foto)
+        {
+            var rm = new ResponseModel();
+
+            try
+            {
+                using (var dbventas = new BasedeDatos())
+                {
+                    dbventas.Configuration.ValidateOnSaveEnabled = false;
+
+                    var eUsuario = dbventas.Entry(this);
+                    eUsuario.State = EntityState.Modified;
+
+                    if (foto != null)
+                    {
+                        string archivo = Path.GetFileName(foto.FileName) + Path.GetExtension(foto.FileName);
+
+                        foto.SaveAs(HttpContext.Current.Server.MapPath("~/Uploads/" + archivo));
+
+                        this.FOTO = archivo;
+                    }
+                    else eUsuario.Property(x => x.FOTO).IsModified = false;
+                    
+                    if (this.NOMBREUSU == null) eUsuario.Property(x => x.NOMBREUSU).IsModified = false;
+                    if (this.PASSWORD == null) eUsuario.Property(x => x.PASSWORD).IsModified = false;
+
+                    dbventas.SaveChanges();
+                    rm.SetResponse(true);
+                }
+            } catch(DbEntityValidationException ex)
+            {
+                throw ex;
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+
             return rm;
         }
     }
