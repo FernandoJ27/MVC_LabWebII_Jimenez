@@ -11,6 +11,8 @@
     <title>Layout</title>
     <link href="~/Assets/CSS/bootstrap.css" rel="stylesheet" />
     <!--<link href="~/Assets/CSS/bootstrap-theme.css" rel="stylesheet" />-->
+    <script src="~/Assets/JavaScript/jquery.anexgrid.js/"></script>
+    <script src="~/Assets/JavaScript/jquery.anexgrid.min.js"></script>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body style="background-color:#ddd9d9">
@@ -30,7 +32,7 @@
                         <li class="mvc-lihover"><a href="#" style="color:#e0e0e0">Pedidos</a></li>
                         <li>
                             <a class="dropdown-toggle" role="button" data-toggle="dropdown" style="color:#e0e0e0">
-                                <img src="~/Uploads/profile.png"/> @usuario.NOMBRE @usuario.APELLIDOS
+                                @*<img src=""/> @usuario.NOMBRE @usuario.APELLIDOS*@
                                 <span class="caret"></span>
                             </a>
                             <ul class="dropdown-menu">
@@ -52,15 +54,16 @@
         <div class="container" style="background-color:#fff; padding-top:20px; padding-bottom:20px; box-shadow: 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12), 0 2px 4px -1px rgba(0, 0, 0, .2)">
             @RenderBody()
         </div>
-        <script src="~/Assets/JavaScript/bootstrap.js"></script>
+
         <script src="~/Assets/JavaScript/jquery-2.2.3.js"></script>
+        <script src="~/Assets/JavaScript/bootstrap.js"></script>
         <script src="~/Assets/JavaScript/jquery.validate.min.js"></script>
         <script src="~/Assets/JavaScript/jquery.validate.unobtrusive.min.js"></script>
     </div>
     <footer>
         @if (controlador != "login")
         {
-            <p>@usuario.NOMBRE @usuario.APELLIDOS</p>
+            @*<p>@usuario.NOMBRE @usuario.APELLIDOS</p>*@
         }
     </footer>
     <script src="~/Assets/JavaScript/bootstrap.js"></script>

@@ -147,6 +147,8 @@
     <Content Include="Assets\JavaScript\bootstrap.js" />
     <Content Include="Assets\JavaScript\ini.js" />
     <Content Include="Assets\JavaScript\jquery-2.2.3.js" />
+    <Content Include="Assets\JavaScript\jquery.anexgrid.js" />
+    <Content Include="Assets\JavaScript\jquery.anexgrid.min.js" />
     <Content Include="Assets\JavaScript\jquery.form.js" />
     <Content Include="Assets\JavaScript\jquery.js" />
     <Content Include="Global.asax" />
@@ -158,12 +160,10 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Compile Include="Areas\BackEnd\BackEndAreaRegistration.cs" />
     <Compile Include="Controllers\CategoriaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\PedidoController.cs" />
-    <Compile Include="Controllers\PerfilController.cs" />
     <Compile Include="Controllers\ProductoController.cs" />
     <Compile Include="Controllers\TipoUsuarioController.cs" />
     <Compile Include="Controllers\UsuarioController.cs" />
@@ -203,7 +203,6 @@
     <Content Include="Assets\fonts\Roboto-Thin.ttf" />
     <Content Include="Assets\fonts\Roboto-Thin.woff" />
     <Content Include="Assets\fonts\Roboto-Thin.woff2" />
-    <Content Include="Areas\BackEnd\Views\web.config" />
     <None Include="Properties\PublishProfiles\mvcjimenez.pubxml" />
     <Content Include="Views\Home\GestionarUsuario.cshtml" />
     <Content Include="Views\Home\UsuarioPerfil.cshtml" />
@@ -222,12 +221,12 @@
     <Content Include="Views\Producto\Gestionar.cshtml" />
     <Content Include="Views\Producto\Index.cshtml" />
     <Content Include="Views\Producto\Productos.cshtml" />
-    <Content Include="Views\TipoUsuario\Buscar.cshtml" />
-    <Content Include="Views\TipoUsuario\Gestionar.cshtml" />
-    <Content Include="Views\TipoUsuario\Index.cshtml" />
     <Content Include="Views\Usuario\Buscar.cshtml" />
     <Content Include="Views\Usuario\Perfil.cshtml" />
     <Content Include="Views\Perfil\Index.cshtml" />
+    <Content Include="Views\TipoUsuario\Index.cshtml" />
+    <Content Include="Views\TipoUsuario\Gestionar.cshtml" />
+    <Content Include="Views\TipoUsuario\Usuarios.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -237,9 +236,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Areas\BackEnd\Controllers\" />
-    <Folder Include="Areas\BackEnd\Models\" />
-    <Folder Include="Areas\BackEnd\Views\Shared\" />
     <Folder Include="Models\" />
     <Folder Include="scripts\" />
   </ItemGroup>

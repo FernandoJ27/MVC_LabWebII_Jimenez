@@ -1,0 +1,133 @@
+﻿@model List<Modelo.TIPO_USUARIO>
+@{
+    ViewBag.Title = "Tipos de Usuario";
+}
+
+
+@using (Html.BeginForm("Index", "TipoUsuario", FormMethod.Post, new { criterio = "frm-buscar" }))
+{
+    <div class="row">
+        <div class="col-sm-5 col-sm-offset-1">
+            @Html.TextBox("criterio",null,new { @class = "form-control", placeholder="Ingrese Tipo de Usuario" })
+        </div>
+        <div class="col-sm-3">
+            <button type="submit"><i class="material-icons" style="font-size:20px; color:#2a5a7d">search</i></button>
+        </div>
+
+        <div class="col-sm-2 pull-right">
+            <a href="~/TipoUsuario/Gestionar/" class="btn btn-info"> <b>+</b> Nuevo</a><br />
+        </div>
+    </div>
+}
+<hr />
+
+<div id="lista"></div>
+
+<script>
+    var configuracion = {
+        class:'table-striped table-bordered',
+        columnas: [
+            { leyenda: "IDTIPOUSUARIO", columna: "IDTIPOUSUARIO", ordenable: true }, //columna 01
+            { leyenda: "NOMBRE", columna: "NOMBRE", ordenable: true }, //columna 02
+            { leyenda: "ESTADO", columna: "ESTADO", ordenable: true }, //columna 03
+            //columna 04: acción
+            { style: "Width: 80px;" },//Visualizar
+            { style: "Width: 80px;" },//Modificar
+            { style: "Width: 80px;" },//Eliminar
+        ],
+
+        modelo: [
+             { propiedad: "IDTIPOUSUARIO" },//campo 1: IDTIPOUSUARIO
+
+             { //campo 2: NOMBRE
+                 propiedad: "NOMBRE", formato: function (tr, obj, valor) {
+                     return anexGrid_link({
+                         href: '@Url.Content("~/TipoUsuario/Gestionar")' + obj.IDTIPOUSUARIO,
+                         contenido: valor
+                     });
+                 }
+             },
+
+             { //campo 3: ESTADO
+                 propiedad: "ESTADO", formato: function (tr, obj, valor) {
+                     return valor == "A" ? "Activo" : "Inactivo";
+                 }
+             },
+
+             { //Botón Visualizar
+                 formato: function (tr, obj, valor) {
+                     return anexGrid_link({
+                         href: '@Url.Content("~/TipoUsuario/Usuarios")' + obj.IDTIPOUSUARIO,
+                         contenido: "Visualizar",
+                         class: 'btn btn-primary'
+                     });
+                 },
+             },
+
+             { //Botón Modificar
+                 formato: function (tr, obj, valor) {
+                     return anexGrid_link({
+                         href: '@Url.Content("~/TipoUsuario/Gestionar")' + obj.IDTIPOUSUARIO,
+                         contenido: "Modificar",
+                         class: 'btn btn-success'
+                     });
+                 },
+             },
+
+             { //Botón Eliminar
+                 formato: function (tr, obj, valor) {
+                     return anexGrid_link({
+                         href: '@Url.Content("~/TipoUsuario/Eliminar")' + obj.IDTIPOUSUARIO,
+                         contenido: "Eliminar",
+                         class: 'btn btn-danger',
+                         attr: [
+                            'onclick="return confirm(\'¿Está seguro de eliminar el registro?\')"'
+                         ]
+                     });
+                 },
+             }
+        ],
+
+        url: '@Url.Content("~/TipoUsuario/CargarTipoUsuario/")',
+        paginable: true,
+        limite: [10, 20, 50, 100],
+        columna: 'IDTIPOUSUARIO',
+        columna_orden: 'DESC'
+    };
+
+    $(document).ready(function () {
+        $("#lista").anexGrid(configuracion);
+    })
+</script>
+
+@*<div class="row">
+    <div class="col-sm-10 col-sm-offset-1">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nombre</th>
+                    <th>Estado</th>
+                    <th>Acción</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var m in Model)
+                {
+                    <tr>
+                        <td>@m.IDTIPOUSUARIO</td>
+                        <td>@m.NOMBRE</td>
+                        <td>@(m.ESTADO == "A" ? "Activo" : "Inactivo")</td>
+                        <td>
+                            <a href="~/TipoUsuario/Usuarios/@m.IDTIPOUSUARIO" class="btn btn-primary"><i class="material-icons" style="font-size:20px">visibility</i></a>
+                            <a href="~/Tipousuario/Gestionar/@m.IDTIPOUSUARIO" class="btn btn-success"><i class="material-icons" style="font-size:20px">edit</i></a>
+                            <a onclick="return confirm('¿Está seguro de eliminar el registro?');" href="~/TipoUsuario/Eliminar/@m.IDTIPOUSUARIO" class="btn btn-danger">
+                                <i class="material-icons" style="font-size:20px">delete_forever</i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>*@

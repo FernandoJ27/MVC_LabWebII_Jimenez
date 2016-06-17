@@ -12,8 +12,7 @@ namespace Laboratorio11_MVC_BD_Jiménez.Controllers
     [Autenticado]
     public class CategoriaController : Controller
     {
-        
-
+       
         private CATEGORIA categoria = new CATEGORIA();
 
         // GET: Categoria
