@@ -82,11 +82,18 @@ namespace Modelo
                                            .Take(grilla.limite)
                                            .ToList();
 
-                    var resultset = tipos.Count();
 
                     grilla.SetData(from t in tipousuario
-                                   select new { t.IDTIPOUSUARIO, t.NOMBRE, t.ESTADO },
-                                  resultset);
+                                   select new
+                                   {
+                                       t.IDTIPOUSUARIO,
+                                       t.NOMBRE,
+                                       t.ESTADO
+                                   },
+                                  //resultset)
+                                  tipos.Count()
+                                  );
+
                 }
             }
             catch (Exception e)

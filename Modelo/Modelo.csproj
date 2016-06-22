@@ -52,7 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Anexgrid.cs" />
+    <Compile Include="AnexGRID.cs" />
     <Compile Include="BasedeDatos.cs" />
     <Compile Include="CATEGORIA.cs" />
     <Compile Include="DETALLE_PEDIDO.cs" />

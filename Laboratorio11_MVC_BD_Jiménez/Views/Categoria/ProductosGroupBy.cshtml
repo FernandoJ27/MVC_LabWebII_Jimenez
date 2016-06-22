@@ -1,20 +1,13 @@
-﻿@model List<Modelo.PRODUCTO>
+﻿@model List<Modelo.CATEGORIA>
 @{
-    ViewBag.Title = "Productos";
-    List<Modelo.CATEGORIA> categoria = ViewBag.CboxCategoria;
- }
+    ViewBag.Title = "Categorías Group By";
+}
 
-@using (Html.BeginForm("Index", "Producto", FormMethod.Post, new { criterio = "frm-buscar" }))
+@using (Html.BeginForm("Index", "Categoria", FormMethod.Post, new { criterio = "frm-buscar" }))
 {
     <div class="row">
         <div class="col-sm-5 col-sm-offset-1">
-            @*@Html.TextBox("criterio", null, new { @class = "form-control", placeholder = "Ingrese Producto" })*@
-            <select name="criterio" class="form-control">
-                @foreach (var c in categoria)
-                {
-                    <option value="@c.IDCATEGORIA">@c.NOMBRE</option>
-                }
-            </select>
+            @Html.TextBox("criterio", null, new { @class = "form-control", placeholder = "Ingrese Categoría" })
         </div>
         <div class="col-sm-3">
             <button type="submit"><i class="material-icons" style="font-size:20px; color:#2a5a7d">search</i> Generar</button>
@@ -43,6 +36,8 @@
                 <td>@m.NOMBRE</td>
                 <td>@m.PRECIO</td>
             </tr>
-            }
+        }
     </tbody>
 </table>
+
+

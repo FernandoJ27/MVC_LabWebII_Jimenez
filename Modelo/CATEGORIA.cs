@@ -145,5 +145,24 @@ namespace Modelo
             return categorias;
         }
 
+        public List<CATEGORIA> ListarProductoGroupBy()
+        {
+            var categorias = new List<CATEGORIA>();
+
+            try
+            {
+                using (var dbventas = new BasedeDatos())
+                {
+                    categorias = dbventas.CATEGORIA.ToList();
+                }
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+
+            return categorias;
+        }
+
     }
 }

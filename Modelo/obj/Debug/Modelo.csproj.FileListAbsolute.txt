@@ -77,3 +77,4 @@ C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\bin\Debug\EntityFramewor
 C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\bin\Debug\EntityFramework.xml
 C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DEPIS\Source\Repos\MVC_LabWebII_Jimenez\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache

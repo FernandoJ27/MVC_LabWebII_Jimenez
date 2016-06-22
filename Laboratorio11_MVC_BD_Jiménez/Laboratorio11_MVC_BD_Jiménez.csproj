@@ -217,16 +217,14 @@
     <Content Include="Views\Pedido\Gestionar.cshtml" />
     <Content Include="Views\Pedido\Index.cshtml" />
     <Content Include="Views\Pedido\DetallePedido.cshtml" />
-    <Content Include="Views\Producto\Buscar.cshtml" />
-    <Content Include="Views\Producto\Gestionar.cshtml" />
     <Content Include="Views\Producto\Index.cshtml" />
-    <Content Include="Views\Producto\Productos.cshtml" />
     <Content Include="Views\Usuario\Buscar.cshtml" />
     <Content Include="Views\Usuario\Perfil.cshtml" />
     <Content Include="Views\Perfil\Index.cshtml" />
     <Content Include="Views\TipoUsuario\Index.cshtml" />
     <Content Include="Views\TipoUsuario\Gestionar.cshtml" />
     <Content Include="Views\TipoUsuario\Usuarios.cshtml" />
+    <Content Include="Views\Categoria\ProductosGroupBy.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

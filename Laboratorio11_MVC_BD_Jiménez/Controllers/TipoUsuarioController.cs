@@ -26,7 +26,7 @@ namespace Laboratorio11_MVC_BD_Jiménez.Controllers
         //Nuevo Anexgrid
         public JsonResult ListarAnexGrid(Modelo.AnexGRID grid)
         {
-            return Json(tipousuario.ListarAnexGRID(grid), JsonRequestBehavior.AllowGet);
+            return Json(tipousuario.ListarAnexGRID(grid));
         }
 
         public ActionResult Gestionar(int id = 0)

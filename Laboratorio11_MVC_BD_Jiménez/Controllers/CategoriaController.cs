@@ -71,5 +71,10 @@ namespace Laboratorio11_MVC_BD_Jiménez.Controllers
                         : categoria.Buscar(criterio)
                 );
         }
+
+        public ActionResult ProductosGroupBy()
+        {
+            return View(categoria.ListarProductoGroupBy());
+        }
     }
 }

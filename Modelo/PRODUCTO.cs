@@ -5,6 +5,7 @@ namespace Modelo
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
+    using System.Linq;
 
     [Table("PRODUCTO")]
     public partial class PRODUCTO
@@ -47,5 +48,46 @@ namespace Modelo
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<DETALLE_PEDIDO> DETALLE_PEDIDO { get; set; }
+
+        public List<PRODUCTO> Listar()
+        {
+            var productos = new List<PRODUCTO>();
+
+            try
+            {
+                using (var dbventas = new BasedeDatos())
+                {
+                    productos = dbventas.PRODUCTO.ToList();
+                }
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+
+            return productos;
+        }
+
+        public List<PRODUCTO> Buscar(int criterio)
+        {
+            var productos = new List<PRODUCTO>();
+
+            try
+            {
+                using (var dbventas = new BasedeDatos())
+                {
+                    productos = dbventas.PRODUCTO
+                                .Where(x => x.IDCATEGORIA == criterio)
+                                .ToList();
+                }
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+
+            return productos;
+        }
+        
     }
 }
